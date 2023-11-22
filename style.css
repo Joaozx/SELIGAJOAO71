@@ -1,15 +1,46 @@
-.beneficios {
-background: #FFFFFF;
-padding: 20px;
+body{
+    background: rgb(145, 219, 145);
 }
-
-ul {
-display: inline-block;
-vertical-align: top;
-width: 20%;
-margin-right: 15%;
+h1{
+    font-size: 60px;
+    color: papayawhip;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
 }
-
-.imagembeneficios {
-width: 50%;
+p{
+    font-size: 60px;
+    color: rgb(175, 159, 116);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+p{
+    font-size: 30px;
+    color: gray;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: justify;
+}
+img{
+    width: 300px;
+    height: 300px;
+    margin: 50px;
+    margin-left: 170px;
+    border: 5px solid green;
+}
+.cabecalho{
+    background-color: forestgreen;
+}
+ .lista_cabecalho{
+display: flex;
+margin-left: 600px;
+}
+.item_lista_cabecalho{
+    color: rgb(138, 206, 138);
+    font-size: 40px;
+    list-style: none;
+    padding-left: 40px;
+}
+.logo_cabecalho{
+    width: 100px;
+    margin-left: 400px;
+    margin-top: 70px;
 }
