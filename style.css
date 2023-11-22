@@ -27,14 +27,14 @@ img{
     border: 5px solid green;
 }
 .cabecalho{
-    background-color: forestgreen;
+    background-color: rgb(97, 34, 139), 139);
 }
  .lista_cabecalho{
 display: flex;
 margin-left: 600px;
 }
 .item_lista_cabecalho{
-    color: rgb(138, 206, 138);
+    color: rgb(255, 255, 255);
     font-size: 40px;
     list-style: none;
     padding-left: 40px;
