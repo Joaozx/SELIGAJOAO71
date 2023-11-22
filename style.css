@@ -1,9 +1,9 @@
 body{
-    background: rgb(145, 219, 145);
+    background: rgb(255, 255, 255);
 }
 h1{
     font-size: 60px;
-    color: papayawhip;
+    color: rgb(0, 0, 0);
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     text-align: center;
 }
