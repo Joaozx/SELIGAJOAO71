@@ -24,7 +24,7 @@ img{
     height: 300px;
     margin: 50px;
     margin-left: 170px;
-    border: 5px solid green;
+    border: 5px solid rgb(107, 0, 128);
 }
 .cabecalho{
     background-color: rgb(97, 34, 139), 139);
